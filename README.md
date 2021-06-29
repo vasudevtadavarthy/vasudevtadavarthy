@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasudevtadavarthy currently a SRE @Vonage
-- 👀 I’m interested in IoT, distributed systems, scalability and chaos engineering.
+- 👀 I’m interested in IoT, CI/CD, distributed systems, scalability and chaos engineering.
 - 🌱 I’m always curious & learning something 
-- 💞️ I’m looking to collaborate on ... hmmm....figuring it out
+- 💞️ I’m looking to collaborate on building flexible and reusable CI/CD solutions.
 - 📫 How to reach me over slack, mobile or email; preferrably over slack. 
 
 <!---
